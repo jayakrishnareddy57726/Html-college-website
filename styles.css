@@ -1,0 +1,49 @@
+.page
+{
+width :1300px;
+height: 1550px;
+border-style: groove;
+background-color: lightyellow;
+}
+.headerpart
+{
+max-width: : 1300px;
+height: 90px;
+border-style: groove;
+background-image: url("oxford-logo.gif");
+background-repeat: no-repeat;
+background-color: rgb(0,28,83);
+padding-bottom: 10px;
+}
+.imagepart
+{
+width:1300px;
+height: 800 px;
+border-style: groove;
+
+background-color: rgb(79,138,240)
+}
+.linkspart
+{
+width:1300px;
+height:50px;
+margin-top: 5px;
+background-color: lightgreen;
+}
+.linkspart a
+{
+text-decoration: none;
+}
+.matter
+{
+	float:left;
+	width:800px;
+	height:300px;
+	background-color: yellow;
+	border-style: groove;
+
+}
+.linksparts
+{
+   text-decoration: none;
+}
